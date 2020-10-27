@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb

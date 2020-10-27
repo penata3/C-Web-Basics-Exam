@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.deps.json
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.MvcFramework.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.dll
+C:\Users\HP\OneDrive\Desktop\Exam\Skeleton\SUS.MvcFramework\obj\Debug\netstandard2.0\SUS.MvcFramework.pdb
